@@ -72,5 +72,5 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\GameDVR" /v AllowGameDVR /t RE
 
 ---
 
-🛠 Автор: @ТВОЙ_НИК  
-📡 Telegram-канал: [ссылка]
+🛠 Автор: @marselcomp
+📡 Telegram-канал: @whatmarsel
